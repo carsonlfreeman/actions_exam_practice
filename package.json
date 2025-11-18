@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/carsonlfreeman/actions_exam_practice/issues"
   },
-  "homepage": "https://github.com/carsonlfreeman/actions_exam_practice#readme"
+  "homepage": "https://github.com/carsonlfreeman/actions_exam_practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
